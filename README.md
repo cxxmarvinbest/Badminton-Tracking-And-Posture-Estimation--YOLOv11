@@ -34,3 +34,4 @@ git clone https://github.com/ultralytics/ultralytics.git
 16.Map the athlete's trajectory onto a 2D badminton court:`trajectory_plot.py`,`trajectory_mapped.mp4`  
 17.Draw a scatter plot of athletes' running movements:`tracker_trajectory_scatter_plot.py`  
 18.Draw a heatmap of athletes' movements:`tracker_heatmap.py`  
+19.From https://github.com/qaz812345/TrackNetV3 clone TrackNetV3, and run `TrackNetV3_run_tracker.py`  
