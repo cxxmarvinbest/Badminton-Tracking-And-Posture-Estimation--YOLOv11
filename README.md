@@ -31,4 +31,6 @@ git clone https://github.com/ultralytics/ultralytics.git
 13.The tracking program:`utils/trajectory.py`,`utils/tracker.py`  
 14.Run the main program:`run_tracker.py`  
 15.result:`output.mp4`,`distances.csv`  
-16.Map the athlete's trajectory onto a 2D badminton court:`trajectory_plot.py`,`trajectory_mapped.mp4`
+16.Map the athlete's trajectory onto a 2D badminton court:`trajectory_plot.py`,`trajectory_mapped.mp4`  
+17.Draw a scatter plot of athletes' running movements:`tracker_trajectory_scatter_plot.py`  
+18.Draw a heatmap of athletes' movements:`tracker_heatmap.py`  
