@@ -1,4 +1,4 @@
-# Badminton-Players-Tracking--YOLOv11
+# Badminton-Tracking And Posture Estimation--YOLOv11
 ## Project Overview
 The project uses Ultralytics' YOLOv11 to track the positions of the athletes in a badminton match video, plot their movement trajectories, and calculate the actual distance traveled by the athletes.
 ## Features
